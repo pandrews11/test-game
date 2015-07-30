@@ -1,0 +1,17 @@
+aspect_ratio: '16:9'
+canvas_main: ''
+cover_art: ''
+deploy_files: []
+deployed: Never
+engine_version: '0.28'
+flash_main: ''
+has_notifications: false
+is_multiplayer: false
+is_temp: false
+mapping_table: ''
+modified: 21:23 | 29/07/2015
+path: /Users/pandrews/Workspace/turbulenz/test-game
+plugin_main: ''
+slug: test-game
+title: Test Game
+title_logo: ''
